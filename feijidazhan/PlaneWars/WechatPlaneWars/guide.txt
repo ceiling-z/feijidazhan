@@ -1,0 +1,8 @@
+1. 运行main.py即可开启游戏。
+2. 按住飞机并进行拖动射击。
+3. 可点击暂停按钮暂停游戏。
+
+
+Python版本请大于3.5，运行游戏需要pygame库，可以使用以下任一命令安装：
+pip install pygame
+pip install -r requirements.txt
